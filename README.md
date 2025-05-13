@@ -1,8 +1,7 @@
 
 ---
 
-<h1 align="center">🚀 Compétences Clés</h1>
-<p align="center">🎓 En formation | Intéressé par l'infrastructure, l'automatisation et la collaboration</p>
+<h1 align="center"> ![image](https://github.com/user-attachments/assets/c2236777-2700-42ef-b6da-4f56e49c92cb) Compétences Clés</h1>
 
 ---
 
@@ -48,8 +47,8 @@
 
 ---
 
-<h1 align="center">📚 En cours – Formation DevOps 2025–2026</h1>
-<p align="center">🛠️ Développement de compétences solides en automatisation, cloud et systèmes distribués.</p>
+<h1 align="center"> En cours – Formation DevOps 2025–2026</h1>
+<p align="center"> Développement de compétences solides en automatisation, cloud et systèmes distribués.</p>
 
 
 <p align="center">
@@ -115,10 +114,7 @@
 ---
 
 ## 🔎 En veille active
-Je poursuis une veille technologique hebdomadaire autour des sujets : CI/CD, AWS, IaC, SRE et automatisation.  
-Sources suivies : DevOps Weekly, blogs AWS/HashiCorp, YouTube (TechWorld with Nana), LinkedIn, GitHub Discussions.
+      • Suivi hebdomadaire de sources DevOps : compte Youtube/insta/Tiktok, newsletter
+      • Carnet de découverte : liste de nouveaux outils, liens/site internet/apli utiles
+      • Échanges avec d’autres DevOps: blog, afterwork, discord
 
----
-
-📫 **Contact**  
-N'hésitez pas à me contacter via [LinkedIn](#) ou à explorer mes projets dans mes repos ci-dessus !
