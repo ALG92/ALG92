@@ -139,7 +139,7 @@
 ---
 
 <h1 align="center"> En veille active ! </h1>
-<p align="center"> Suivi hebdomadaire de sources DevOps : compte Youtube/insta/Tiktok, newsletter </p>
-<p align="center"> Carnet de découverte : liste de nouveaux outils, liens/site internet/apli utiles </p>
-<p align="center"> Échanges avec d’autres DevOps: blog, afterwork, discord </p>
+<p align="center"> Suivi hebdomadaire de sources DevOps : compte Youtube / insta / tiktok, newsletter </p>
+<p align="center"> Carnet de découverte : liste de nouveaux outils, liens / sites internets / applications utiles </p>
+<p align="center"> Échanges avec d’autres DevOps: blog, afterworks, discord </p>
 
