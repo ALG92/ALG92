@@ -138,9 +138,8 @@
 
 ---
 
-
-## En veille active !
-      • Suivi hebdomadaire de sources DevOps : compte Youtube/insta/Tiktok, newsletter
-      • Carnet de découverte : liste de nouveaux outils, liens/site internet/apli utiles
-      • Échanges avec d’autres DevOps: blog, afterwork, discord
+<h1 align="center"> ## En veille active ! </h1>
+<p align="center"> Suivi hebdomadaire de sources DevOps : compte Youtube/insta/Tiktok, newsletter </p>
+<p align="center"> Carnet de découverte : liste de nouveaux outils, liens/site internet/apli utiles </p>
+<p align="center"> Échanges avec d’autres DevOps: blog, afterwork, discord </p>
 
