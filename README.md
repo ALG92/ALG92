@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="center"> ![image](https://github.com/user-attachments/assets/c2236777-2700-42ef-b6da-4f56e49c92cb) Compétences Clés</h1>
+<h1 align="center">Compétences Clés</h1>
 
 ---
 
@@ -12,10 +12,14 @@
 <p align="center"><i>Notions de base en C et en scripting Shell.</i></p>
 
 
+
+
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/linux.png" alt="Linux"/>
 </p>
 <p align="center"><i>Utilisation de Linux via le terminal et les commandes de base.</i></p>
+
+
 
 
 <p align="center">
@@ -24,6 +28,8 @@
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
 </p>
 <p align="center"><i>Travail avec VS Code, Git et GitHub.</i></p>
+
+
 
 
 <p align="center">
@@ -37,6 +43,8 @@
 <p align="center"><i>Maîtrise des outils collaboratifs courants pour le travail en équipe et la communication.</i></p>
 
 
+
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop"/>
   <img src="https://img.icons8.com/color/48/adobe-indesign.png" alt="InDesign"/>
@@ -45,10 +53,14 @@
 </p>
 <p align="center"><i>Utilisation des outils Adobe pour la création graphique, le design et la vidéo.</i></p>
 
+
+
 ---
 
 <h1 align="center"> En cours – Formation DevOps 2025–2026</h1>
 <p align="center"> Développement de compétences solides en automatisation, cloud et systèmes distribués.</p>
+
+---
 
 
 <p align="center">
@@ -61,6 +73,8 @@
 <p align="center"><i>Apprentissage des chaînes CI/CD avec GitLab, Jenkins, Docker, Kubernetes et Pytest.</i></p>
 
 
+
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/ios/48/linux.png" alt="Linux"/>
@@ -71,11 +85,15 @@
 <p align="center"><i>Python avancé, FastAPI, scripting Bash, virtualisation avec Vagrant.</i></p>
 
 
+
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/ios-filled/48/cloud.png" alt="Cloud Tools"/>
 </p>
 <p align="center"><i>Formation AWS : Cloud Practitioner & Solutions Architect – CodePipeline, API Gateway, CloudFormation, X-Ray, CodeStar.</i></p>
+
+
 
 
 <p align="center">
@@ -87,12 +105,16 @@
 <p align="center"><i>Supervision d’infrastructure avec Prometheus, Grafana, Datadog et Sentry.</i></p>
 
 
+
+
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/48/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/nginx.png" alt="NGINX"/>
   <img src="https://img.icons8.com/ios-filled/48/security-checked.png" alt="Security"/>
 </p>
 <p align="center"><i>Compétences avancées en Linux, configuration serveur (NGINX) et sécurité.</i></p>
+
+
 
 
 <p align="center">
@@ -105,15 +127,19 @@
 <p align="center"><i>Travail avec PostgreSQL, MongoDB, Neo4J, Elasticsearch et le langage SQL.</i></p>
 
 
+
+
 <p align="center">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-terraform-an-open-source-infrastructure-as-code-software-tool-logo-shadow-tal-revivo.png" alt="Terraform"/>
   <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
 </p>
 <p align="center"><i>Utilisation de Terraform et Ansible pour l’automatisation de l’infrastructure.</i></p>
 
+
 ---
 
-## 🔎 En veille active
+
+## En veille active !
       • Suivi hebdomadaire de sources DevOps : compte Youtube/insta/Tiktok, newsletter
       • Carnet de découverte : liste de nouveaux outils, liens/site internet/apli utiles
       • Échanges avec d’autres DevOps: blog, afterwork, discord
