@@ -79,8 +79,8 @@
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/ios/48/linux.png" alt="Linux"/>
   <img src="https://www.cdnlogo.com/logos/f/59/fastapi.svg" alt="FastAPI" width="48" height="48" style="object-fit: contain; margin: 5px;"/>
-  <img src="https://img.icons8.com/ios-filled/50/bash.png" alt="Bash"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-development-environments-logo-shadow-tal-revivo.png" alt="Vagrant"/>
+  <img src="https://img.icons8.com/fluency/48/bash.png" alt="Bash"/>
+  <img src="https://images.seeklogo.com/logo-png/31/1/vagrant-logo-png_seeklogo-314279.png" alt="Vagrant" width="48" height="48" style="object-fit: contain; margin: 5px;" />
 </p>
 <p align="center"><i>Python avancé, FastAPI, scripting Bash, virtualisation avec Vagrant.</i></p>
 
@@ -97,10 +97,10 @@
 
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/prometheus-app.png" alt="Prometheus"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjDWOUUW8m3sTPB4OFNxDm3weHS1Y0ScE3cA&s" alt="prometheus" width="48" height="48" style="object-fit: contain; margin: 5px;" />
   <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana"/>
-  <img src="https://img.icons8.com/ios/50/datadog.png" alt="Datadog"/>
-  <img src="https://img.icons8.com/ios/48/sentry.png" alt="Sentry"/>
+  <img src="https://companieslogo.com/img/orig/DDOG-60ca9565.png?t=1720244491" alt="Datadog" width="48" height="48" style="object-fit: contain; margin: 5px;" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/sentry-3-logo-png-transparent.png" alt="Sentry" width="48" height="48" style="object-fit: contain; margin: 5px;" />
 </p>
 <p align="center"><i>Supervision d’infrastructure avec Prometheus, Grafana, Datadog et Sentry.</i></p>
 
@@ -121,8 +121,8 @@
   <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-neo4j-a-graph-database-management-system-logo-shadow-tal-revivo.png" alt="Neo4J"/>
-  <img src="https://img.icons8.com/ios/48/elasticsearch.png" alt="Elasticsearch"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQG6P9i9HARJvw/company-logo_200_200/company-logo_200_200/0/1697806384366/neo4j_logo?e=2147483647&v=beta&t=-q9174RSLNkmm6NnIm-9zFq7U0JgP0StPPLIvd_Mr6E" alt="Neo4J" width="48" height="48" style="object-fit: contain; margin: 5px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Nuq-iNHEa3SWMaPOfoxPOhAM9WpuI9YDfg&s" alt="Elasticsearch" width="48" height="48" style="object-fit: contain; margin: 5px;" />
 </p>
 <p align="center"><i>Travail avec PostgreSQL, MongoDB, Neo4J, Elasticsearch et le langage SQL.</i></p>
 
@@ -130,7 +130,7 @@
 
 
 <p align="center">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-terraform-an-open-source-infrastructure-as-code-software-tool-logo-shadow-tal-revivo.png" alt="Terraform"/>
+  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="48" height="48" style="object-fit: contain; margin: 5px;" />
   <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
 </p>
 <p align="center"><i>Utilisation de Terraform et Ansible pour l’automatisation de l’infrastructure.</i></p>
