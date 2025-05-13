@@ -80,7 +80,7 @@
   <img src="https://img.icons8.com/ios/48/linux.png" alt="Linux"/>
   <img src="https://www.cdnlogo.com/logos/f/59/fastapi.svg" alt="FastAPI" width="48" height="48" style="object-fit: contain; margin: 5px;"/>
   <img src="https://img.icons8.com/fluency/48/bash.png" alt="Bash"/>
-  <img src="https://images.seeklogo.com/logo-png/31/1/vagrant-logo-png_seeklogo-314279.png" alt="Vagrant" width="48" height="48" style="object-fit: contain; margin: 5px;" />
+  <img src="https://e7.pngegg.com/pngimages/339/633/png-clipart-vagrant-logo-hashicorp-graphics-brand-vagrant-blue-angle.png" alt="Vagrant" width="48" height="48" style="object-fit: contain; margin: 5px;" />
 </p>
 <p align="center"><i>Python avancé, FastAPI, scripting Bash, virtualisation avec Vagrant.</i></p>
 
@@ -138,7 +138,7 @@
 
 ---
 
-<h1 align="center"> ## En veille active ! </h1>
+<h1 align="center"> En veille active ! </h1>
 <p align="center"> Suivi hebdomadaire de sources DevOps : compte Youtube/insta/Tiktok, newsletter </p>
 <p align="center"> Carnet de découverte : liste de nouveaux outils, liens/site internet/apli utiles </p>
 <p align="center"> Échanges avec d’autres DevOps: blog, afterwork, discord </p>
