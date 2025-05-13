@@ -4,24 +4,19 @@
 <h1 align="center">🚀 Compétences Clés</h1>
 ---
 
-### 💻 Scripting
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/fluency/48/bash.png" alt="Shell"/>
 </p>
 <p align="center"><i>Notions de base en C et en scripting Shell.</i></p>
 
----
 
-### 🖥️ Systèmes
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/linux.png" alt="Linux"/>
 </p>
 <p align="center"><i>Utilisation de Linux via le terminal et les commandes de base.</i></p>
 
----
 
-### ⚙️ Outils DevOps
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
@@ -29,9 +24,7 @@
 </p>
 <p align="center"><i>Travail avec VS Code, Git et GitHub.</i></p>
 
----
 
-### 🤝 Outils Collaboratifs
 <p align="center">
   <img src="https://img.icons8.com/color/48/slack-new.png" alt="Slack"/>
   <img src="https://img.icons8.com/color/48/microsoft-teams.png" alt="Teams"/>
@@ -42,9 +35,7 @@
 </p>
 <p align="center"><i>Maîtrise des outils collaboratifs courants pour le travail en équipe et la communication.</i></p>
 
----
 
-### 🎨 Outils Créatifs
 <p align="center">
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop"/>
   <img src="https://img.icons8.com/color/48/adobe-indesign.png" alt="InDesign"/>
