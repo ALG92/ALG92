@@ -2,66 +2,91 @@
 <p align="center">💻 Aspiring DevOps Engineer | Currently in DevOps training (2025–2026)</p>
 
 ---
+<h1 align="center">🚀 My Skills</h1>
+---
 
-## 🚀 Skills & Technologies
-
-### ✅ Acquired
-
-#### 🧠 Scripting & System  
-- C, Shell (base)  
-- Linux (commandes de base, terminal)
-
-#### 🛠 Outils DevOps  
-- Visual Studio Code  
-- Git & GitHub
-
-#### 🤝 Outils Collaboratifs  
-- Slack, Teams, SAP, Excel  
-- Google Workspace, ChatGPT
-
-#### 🎨 Outils Créatifs  
-- Photoshop, InDesign, Illustrator, Premiere Pro
+### 🌍 Languages
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/fluency/48/bash.png" alt="Bash"/>
+</p>
+<p align="center"><i>Mastering scripting and programming languages: C, C++, Python, Bash.</i></p>
 
 ---
 
-### 📚 En cours de formation – *DevOps 2025–2026*
+### 🖥️ Systems & Admin
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/nginx.png" alt="NGINX"/>
+  <img src="https://img.icons8.com/ios/50/security-checked--v1.png" alt="Security"/>
+</p>
+<p align="center"><i>Linux system administration, web servers and basic security concepts.</i></p>
 
-#### ⚙️ CI/CD  
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
+---
 
-#### 🐍 Développement d’application  
-- Python (avancé), FastAPI  
-- Linux avancé, Bash  
-- Virtualisation avec Vagrant
+### 💻 DevOps Tools
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-development-environments-logo-shadow-tal-revivo.png" alt="Vagrant"/>
+</p>
+<p align="center"><i>Working with Git, containers, orchestration, CI/CD, and virtualization tools.</i></p>
 
-#### ☁️ Cloud & Infrastructure  
-- AWS Cloud Practitioner & Solutions Architect  
-- CodePipeline, API Gateway, CloudFormation, X-Ray, CodeStar
+---
 
-#### 📈 Monitoring & SRE  
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" />
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-terraform-an-open-source-infrastructure-as-code-software-tool-logo-shadow-tal-revivo.png" alt="Terraform"/>
+  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
+</p>
+<p align="center"><i>Training on AWS (Cloud Practitioner, Solutions Architect), IaC with Terraform & Ansible.</i></p>
 
-#### 🖥️ Administration système  
-- Linux (niveau avancé), NGINX  
-- Sécurité, structures de données
+---
 
-#### 🧠 Bases de données  
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+### 🧠 Monitoring & SRE
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/prometheus-app.png" alt="Prometheus"/>
+  <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana"/>
+  <img src="https://img.icons8.com/ios/50/datadog.png" alt="Datadog"/>
+  <img src="https://img.icons8.com/ios/48/sentry.png" alt="Sentry"/>
+</p>
+<p align="center"><i>Observability using Prometheus, Grafana, Datadog and Sentry.</i></p>
 
-#### 🤖 Automatisation  
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-E74430?style=flat&logo=ansible&logoColor=white" />
+---
+
+### 🛢️ Databases
+<p align="center">
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-neo4j-a-graph-database-management-system-logo-shadow-tal-revivo.png" alt="Neo4j"/>
+  <img src="https://img.icons8.com/ios/48/elasticsearch.png" alt="Elasticsearch"/>
+</p>
+<p align="center"><i>Familiar with SQL and NoSQL databases: PostgreSQL, MongoDB, Neo4J, Elasticsearch.</i></p>
+
+---
+
+### 🤝 Collaborative & Creative Tools
+<p align="center">
+  <img src="https://img.icons8.com/color/48/slack-new.png" alt="Slack"/>
+  <img src="https://img.icons8.com/color/48/microsoft-teams.png" alt="Teams"/>
+  <img src="https://img.icons8.com/color/48/sap.png" alt="SAP"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/google-logo.png" alt="Google Workspace"/>
+  <img src="https://img.icons8.com/ios-filled/50/chatgpt.png" alt="ChatGPT"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop"/>
+  <img src="https://img.icons8.com/color/48/adobe-indesign.png" alt="InDesign"/>
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator"/>
+  <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="Premiere Pro"/>
+</p>
+<p align="center"><i>Used for collaboration, productivity, and multimedia content creation.</i></p>
 
 ---
 
