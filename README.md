@@ -1,7 +1,9 @@
-<p align="center">🎓 En formation | Intéressé par l'infrastructure, l'automatisation et la collaboration</p>
 
 ---
+
 <h1 align="center">🚀 Compétences Clés</h1>
+<p align="center">🎓 En formation | Intéressé par l'infrastructure, l'automatisation et la collaboration</p>
+
 ---
 
 <p align="center">
@@ -49,9 +51,7 @@
 <h1 align="center">📚 En cours – Formation DevOps 2025–2026</h1>
 <p align="center">🛠️ Développement de compétences solides en automatisation, cloud et systèmes distribués.</p>
 
----
 
-### ⚙️ CI/CD
 <p align="center">
   <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab"/>
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
@@ -61,9 +61,7 @@
 </p>
 <p align="center"><i>Apprentissage des chaînes CI/CD avec GitLab, Jenkins, Docker, Kubernetes et Pytest.</i></p>
 
----
 
-### 🐍 Développement d’applications
 <p align="center">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/ios/48/linux.png" alt="Linux"/>
@@ -73,18 +71,14 @@
 </p>
 <p align="center"><i>Python avancé, FastAPI, scripting Bash, virtualisation avec Vagrant.</i></p>
 
----
 
-### ☁️ Cloud & Infrastructure
 <p align="center">
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/ios-filled/48/cloud.png" alt="Cloud Tools"/>
 </p>
 <p align="center"><i>Formation AWS : Cloud Practitioner & Solutions Architect – CodePipeline, API Gateway, CloudFormation, X-Ray, CodeStar.</i></p>
 
----
 
-### 📈 Monitoring & SRE
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/prometheus-app.png" alt="Prometheus"/>
   <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana"/>
@@ -93,9 +87,7 @@
 </p>
 <p align="center"><i>Supervision d’infrastructure avec Prometheus, Grafana, Datadog et Sentry.</i></p>
 
----
 
-### 🛠️ Administration système
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/48/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/nginx.png" alt="NGINX"/>
@@ -103,9 +95,7 @@
 </p>
 <p align="center"><i>Compétences avancées en Linux, configuration serveur (NGINX) et sécurité.</i></p>
 
----
 
-### 🗃️ Bases de données
 <p align="center">
   <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
@@ -115,9 +105,7 @@
 </p>
 <p align="center"><i>Travail avec PostgreSQL, MongoDB, Neo4J, Elasticsearch et le langage SQL.</i></p>
 
----
 
-### 🤖 Automatisation
 <p align="center">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-terraform-an-open-source-infrastructure-as-code-software-tool-logo-shadow-tal-revivo.png" alt="Terraform"/>
   <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
