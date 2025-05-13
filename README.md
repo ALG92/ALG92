@@ -78,7 +78,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/ios/48/linux.png" alt="Linux"/>
-  <img src="https://www.cdnlogo.com/logos/f/59/fastapi.svg" alt="FastAPI"/>
+  <img src="https://www.cdnlogo.com/logos/f/59/fastapi.svg" alt="FastAPI" width="48" height="48" style="object-fit: contain; margin: 5px;"/>
   <img src="https://img.icons8.com/ios-filled/50/bash.png" alt="Bash"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-development-environments-logo-shadow-tal-revivo.png" alt="Vagrant"/>
 </p>
